@@ -1,2 +1,1 @@
-jijigj
-
+#include<stdio.h>
