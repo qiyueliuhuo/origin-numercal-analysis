@@ -2,7 +2,7 @@
 #include<malloc.h>
 int main()
 {
-
+iiiii
 	int i, n;
 	double *A, x, result;
 	printf("请输入多项式的最高次数n(n>0的整数):\n");
