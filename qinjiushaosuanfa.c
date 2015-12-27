@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<malloc.h>
-int main()
+int main()aaaa
 {
 	int i, n;
 	double *A, x, result;
